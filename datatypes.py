@@ -1,22 +1,15 @@
-first_name="jane"
+first_name="Jane"
 print(first_name)
 print(type(first_name))
 
 num=100
 print(num)
-print
-ype(num)
+print(type(num))
+
+num1=99.45
+print(num1)
+print(type(num1))
 
 check=True
 print(check)
 print(type(check))
-
-
-num1="1000"
-num2="2000"
-total=num1+num2
-print(total)
-
-
-text="i am a software developer"
-print(text[7])
